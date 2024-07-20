@@ -7,9 +7,9 @@
 * CODE_IDというのを求められるが、コントラクト作成時の[event logs](https://testnet.explorer.injective.network/transaction/89A43BE7B0EDB0318C4FBDF15AA7645C7C18E82859DE45B00E1C5DFF7754B985/event-logs/)に載っている
 
 ## link
-* https://docs.injective.network/develop/guides/injective-101/testnet-deployment-guide
-* https://claude.ai/chat/0018c49d-e21e-4760-9a03-8a55114c7740
-* https://testnet.explorer.injective.network/account/inj17p6y38uhq0z497gux0ewz0skcf2eggzyf5dtff/transactions/
+* [testnet-deployment-guide](https://docs.injective.network/develop/guides/injective-101/testnet-deployment-guide)
+* [Cluadeのチャット履歴](https://claude.ai/chat/0018c49d-e21e-4760-9a03-8a55114c7740)
+* [txの履歴](https://testnet.explorer.injective.network/account/inj17p6y38uhq0z497gux0ewz0skcf2eggzyf5dtff/transactions/)
 
 
 ```
